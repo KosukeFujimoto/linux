@@ -111,7 +111,7 @@ linux-api@vger.kernel.org に送ることを勧めます。
 以下はカーネルソースツリーに含まれている読んでおくべきファイルの一覧で
 す-
 
-  README
+  :ref:`Documentation/admin-guide/README.rst <readme>`
     このファイルは Linuxカーネルの簡単な背景とカーネルを設定(訳注
     configure )し、生成(訳注 build )するために必要なことは何かが書かれ
     ています。 カーネルに関して初めての人はここからスタートすると良い
