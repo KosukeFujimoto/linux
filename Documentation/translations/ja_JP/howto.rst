@@ -387,15 +387,8 @@ admin-guide/reporting-bugs.rstはカーネルバグらしいものについて�
 いからです。
 
 すでにレポートされたバグのために仕事をするためには、
-https://bugzilla.kernel.org に行ってください。もし今後のバグレポートに
-ついてアドバイスを受けたいのであれば、bugme-new メーリングリスト(新し
-いバグレポートだけがここにメールされる) または bugme-janitor メーリン
-グリスト(bugzilla の変更毎にここにメールされる)を購読できます。
-
-	https://lists.linux-foundation.org/mailman/listinfo/bugme-new
-
-	https://lists.linux-foundation.org/mailman/listinfo/bugme-janitors
-
+https://bugzilla.kernel.org に行ってください
+。
 メーリングリスト
 ----------------
 
